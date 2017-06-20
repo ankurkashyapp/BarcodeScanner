@@ -81,12 +81,12 @@ subprojects {
                             packaging project.pomPackaging
                             artifactId project.pomArtifactId
                             description project.pomDescription
-                            url 'https://github.com/dm77/barcodescanner'
+                            url 'https://github.com/ankurkashyapp/BarcodeScanner'
 
                             scm {
-                                url 'scm:git@github.com:dm77/barcodescanner.git'
-                                connection 'scm:git@github.com:dm77/barcodescanner.git'
-                                developerConnection 'scm:git@github.com:dm77/barcodescanner.git'
+                                url 'scm:git@github.com:ankurkashyapp/BarcodeScanner.git'
+                                connection 'scm:git@github.com:ankurkashyapp/BarcodeScanner.git'
+                                developerConnection 'scm:git@github.com:ankurkashyapp/BarcodeScanner.git'
                             }
 
                             licenses {
@@ -99,9 +99,9 @@ subprojects {
 
                             developers {
                                 developer {
-                                    id 'dm77'
-                                    name 'Dushyanth Maguluru'
-                                    email 'dushyanth.maguluru@gmail.com'
+                                    id 'ankurkashyapp'
+                                    name 'Ankur Kashyap'
+                                    email 'shiv.ankurkashyap@gmail.com'
                                 }
                             }
                         }
